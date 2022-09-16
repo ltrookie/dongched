@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3559778 */
+  src: url('iconfont.woff2?t=1660657913016') format('woff2'),
+       url('iconfont.woff?t=1660657913016') format('woff'),
+       url('iconfont.ttf?t=1660657913016') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shizhong:before {
+  content: "\e74f";
+}
+
+.icon-cuo:before {
+  content: "\e613";
+}
+
+.icon-yonghu:before {
+  content: "\e66b";
+}
+
+.icon-shouye:before {
+  content: "\e751";
+}
+
+.icon-quanquanmendianb:before {
+  content: "\e6d4";
+}
+
+.icon-car:before {
+  content: "\e639";
+}
+
+.icon-xiaoqiche:before {
+  content: "\e6cd";
+}
+
+.icon-ershouche1:before {
+  content: "\efb8";
+}
+
+.icon-zuanshi:before {
+  content: "\e6c3";
+}
+
+.icon-xinnengyuan:before {
+  content: "\e731";
+}
+
+.icon-more-line:before {
+  content: "\e699";
+}
+
+.icon-scan:before {
+  content: "\e64c";
+}
+
+.icon-qiche:before {
+  content: "\ec6d";
+}
+
+.icon-weibiaoti-_huabanfuben:before {
+  content: "\e616";
+}
+
+.icon-naozhong:before {
+  content: "\e698";
+}
+
+.icon-add:before {
+  content: "\e742";
+}
+
+.icon-ershouche:before {
+  content: "\fd72";
+}
+
+.icon-chezhufuwu:before {
+  content: "\e661";
+}
+
